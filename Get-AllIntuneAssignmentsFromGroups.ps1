@@ -29,7 +29,7 @@ $Scopes = "DeviceManagementConfiguration.Read.All, DeviceManagementApps.ReadWrit
 
 <# Functions #>
 
-#Initialisation
+# Initialisation
 function Start-Initialisation {
 
     # Configure console output encoding
